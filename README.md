@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @sonumagnus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning App Development
+- 📫 Contact me via email sonulodha3@gmail.com
 
 <!---
 sonumagnus/sonumagnus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

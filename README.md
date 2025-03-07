@@ -16,21 +16,6 @@ I specialize in **Next.js, React.js, Tailwind CSS, and ShadCN**, building high-q
 - 🛠 **Open Source Contributions** – Sharing knowledge with the community.
 - 💡 **Experiment with New Tech** – Constantly exploring new tools & frameworks.
 
----
-
-## 📌 **Featured Projects**
-
-### 🚀 [UI Component Library](https://github.com/sonumagnus/ui-component-library)
-A customizable UI component library for **Next.js & React.js**, powered by **ShadCN & Tailwind CSS**.
-
-### 💰 [E-commerce Platform](https://github.com/sonumagnus/ecommerce-platform)
-A fully-featured e-commerce system with seamless checkout, product listings, and user authentication.
-
-### ✈️ [Flight Booking App](https://github.com/sonumagnus/flight-booking-app)
-A flight search and booking platform using **Next.js 15 and Amadeus API**.
-
----
-
 ## 🌟 **Tech Stack**
 
 - **Frontend:** Next.js, React.js, Tailwind CSS, ShadCN

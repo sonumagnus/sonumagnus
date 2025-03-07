@@ -1,7 +1,7 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Sonu Lodha!
 
-![GitHub Followers](https://img.shields.io/github/followers/your-username?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/your-username?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/sonumagnus?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/sonumagnus?style=social)
 
 🚀 **Full-Stack Developer | UI Specialist | Open Source Enthusiast**
 
@@ -20,13 +20,13 @@ I specialize in **Next.js, React.js, Tailwind CSS, and ShadCN**, building high-q
 
 ## 📌 **Featured Projects**
 
-### 🚀 [UI Component Library](https://github.com/your-username/ui-component-library)
+### 🚀 [UI Component Library](https://github.com/sonumagnus/ui-component-library)
 A customizable UI component library for **Next.js & React.js**, powered by **ShadCN & Tailwind CSS**.
 
-### 💰 [E-commerce Platform](https://github.com/your-username/ecommerce-platform)
+### 💰 [E-commerce Platform](https://github.com/sonumagnus/ecommerce-platform)
 A fully-featured e-commerce system with seamless checkout, product listings, and user authentication.
 
-### ✈️ [Flight Booking App](https://github.com/your-username/flight-booking-app)
+### ✈️ [Flight Booking App](https://github.com/sonumagnus/flight-booking-app)
 A flight search and booking platform using **Next.js 15 and Amadeus API**.
 
 ---
@@ -41,8 +41,8 @@ A flight search and booking platform using **Next.js 15 and Amadeus API**.
 
 ## 📈 **GitHub Stats**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonumagnus&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonumagnus&layout=compact&theme=radical)
 
 ---
 
